@@ -2,9 +2,9 @@
 
 
 ## Tela de cadastro de fornecedor
-![altoria de Johny Rodrigo Luvizotto ](imagens/cadastroDeFornecedor.jpg)
+![autoria de Johny Rodrigo Luvizotto ](imagens/cadastroDeFornecedor.jpg)
 
 
 ## Tela de cadastro de pessoa física
 ### incluindo aluno e professor
-![altoria de  ](imagens/cadastroDePessoa.jpg)
+![autoria de Mateus Vieira da Silva ](imagens/cadastroDePessoa.jpg)
