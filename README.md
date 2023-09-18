@@ -1,2 +1,2 @@
 # projetoIntegrador
-Trabalho da diciplina projeto integrador senac
+Trabalho da disciplina projeto integrador senac
